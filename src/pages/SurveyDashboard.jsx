@@ -605,8 +605,7 @@ function SurveysTable() {
         wrap="wrap"
         gap="14px"
         px="28px"
-        pt="26px"
-        pb="20px"
+        h="64px"
       >
         <Text fontSize="22px" fontWeight="700" color="#15161A">
           Surveys
